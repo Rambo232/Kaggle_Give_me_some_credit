@@ -9,7 +9,7 @@
 
 | Language | Link |
 |----------|------|
-| 🇬🇧 English |(https://github.com/Rambo232/Kaggle_Give_me_some_credit/blob/main/credit_scoring_final_en.ipynb)) |
+| 🇬🇧 English |[credit_scoring_final_en.ipynb](./credit_scoring_final_en.ipynb)) |
 | 🇷🇺 Russian | [credit_scoring_final_ru.ipynb](./credit_scoring_final_ru.ipynb) |
 | 🏆 Kaggle | *(link to your Kaggle notebook)* |
 
