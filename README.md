@@ -1,5 +1,5 @@
 # Credit Scoring — Give Me Some Credit
-### Analytical Solution: Top 12% on Kaggle (Private AUC = 0.86720)
+### Analytical Solution: Top ~ 100 on Kaggle (Private AUC = 0.86720)
 
 > 📌 **Note:** The Russian version of this README is available below.
 
