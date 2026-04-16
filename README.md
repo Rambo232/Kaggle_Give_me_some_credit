@@ -9,9 +9,9 @@
 
 | Language | Link |
 |----------|------|
-| 🇬🇧 English |[credit_scoring_final_en.ipynb](./credit_scoring_final_en.ipynb)) |
+| 🇬🇧 English |[credit_scoring_final_en.ipynb](./credit_scoring_final_en.ipynb) |
 | 🇷🇺 Russian | [credit_scoring_final_ru.ipynb](./credit_scoring_final_ru.ipynb) |
-| 🏆 Kaggle | *(link to your Kaggle notebook)* |
+| 🏆 Kaggle | [*(link to your Kaggle notebook)*](https://www.kaggle.com/code/rambo232/notebookf74f4e9611) |
 
 ---
 
